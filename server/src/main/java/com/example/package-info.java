@@ -1,4 +1,4 @@
-/*
- * This is the information for the package.
+/**
+ * This is a package name.
  */
 package com.example;
